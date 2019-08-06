@@ -1,8 +1,9 @@
-µÚÒ»´ÎÌá½»
-µÚ¶ş´ÎĞŞ¸Ä
-µÚÈı´ÎĞŞ¸Ä
-µÚÎå´ÎÌá½»,test diff
+ç¬¬ä¸€æ¬¡æäº¤
+ç¬¬äºŒæ¬¡ä¿®æ”¹
+ç¬¬ä¸‰æ¬¡ä¿®æ”¹
+ç¬¬äº”æ¬¡æäº¤,test diff
 edit by br_test
 modify by br_test
 modify by master
 modify by br_test second
+modify b master three
